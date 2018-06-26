@@ -7,5 +7,4 @@ Repo made for exercise
 
 Let's check the column and rows options
 
-|column1|rows1|
-|Hello|Softuni|
+Columns and rows are still in the innapropriate format
